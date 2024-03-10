@@ -158,7 +158,8 @@ else:
 
 ```
 <br>
-![Captura de pantalla 2024-03-09 204549](https://github.com/JeysonRomero/Reto-4/assets/159095091/49203c30-e882-4904-b5ea-9eca23791096)
+
+![Captura de pantalla 2024-03-09 204549](https://github.com/JeysonRomero/Reto-4/assets/159095091/79808533-3fca-4c7f-9337-59ed99614abd)
 
 
 
